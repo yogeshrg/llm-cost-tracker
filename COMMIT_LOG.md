@@ -3,3 +3,4 @@
 ## 2020-01-22 20:40:26 - feat(deploy): add deploy support
 ## 2020-02-01 12:23:35 - feat(deploy): add deploy support (20/20)
 ## 2020-02-02 20:03:37 - feat(data): implement data module (7/20)
+## 2020-02-08 09:27:22 - feat(ui): implement ui feature (8/20)

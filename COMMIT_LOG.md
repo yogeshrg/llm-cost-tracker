@@ -173,3 +173,4 @@
 ## 2020-04-19 09:53:11 - feat(queue): add queue endpoint (1/20)
 ## 2020-05-02 14:26:22 - feat(deploy): add deploy endpoint (17/20)
 ## 2020-05-03 17:45:49 - feat(data): create data handler (18/20)
+## 2020-05-13 16:16:23 - feat(cache): implement cache module

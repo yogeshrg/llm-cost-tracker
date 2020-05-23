@@ -11,3 +11,4 @@
 ## 2020-05-02 14:26:22 - feat(deploy): add deploy endpoint (17/20)
 ## 2020-05-03 17:45:49 - feat(data): create data handler (18/20)
 ## 2020-05-13 16:16:23 - feat(cache): implement cache module
+## 2020-05-23 12:42:52 - feat(model): add model endpoint (14/20)

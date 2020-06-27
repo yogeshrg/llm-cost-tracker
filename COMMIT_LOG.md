@@ -340,3 +340,4 @@
 ## 2020-05-23 12:42:52 - feat(model): add model endpoint (14/20)
 ## 2020-06-07 21:49:45 - feat(deploy): implement deploy feature (6/20)
 ## 2020-06-20 16:40:57 - feat(deploy): add deploy support (10/20)
+## 2020-06-27 12:11:12 - feat(api): implement api module (17/20)

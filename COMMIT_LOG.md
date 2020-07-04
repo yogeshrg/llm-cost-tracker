@@ -178,3 +178,4 @@
 ## 2020-06-07 21:49:45 - feat(deploy): implement deploy feature (6/20)
 ## 2020-06-20 16:40:57 - feat(deploy): add deploy support (10/20)
 ## 2020-06-27 12:11:12 - feat(api): implement api module (17/20)
+## 2020-07-04 10:20:04 - feat(monitor): implement monitor module (6/20)

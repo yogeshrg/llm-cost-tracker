@@ -343,3 +343,4 @@
 ## 2020-06-27 12:11:12 - feat(api): implement api module (17/20)
 ## 2020-07-04 10:20:04 - feat(monitor): implement monitor module (6/20)
 ## 2020-07-05 13:03:58 - feat(alert): add alert endpoint (4/20)
+## 2020-07-18 16:06:51 - feat(core): implement core module (18/20)

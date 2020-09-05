@@ -19,3 +19,4 @@
 ## 2020-07-05 13:03:58 - feat(alert): add alert endpoint (4/20)
 ## 2020-07-18 16:06:51 - feat(core): implement core module (18/20)
 ## 2020-07-25 09:47:46 - feat(auth): create auth handler (7/20)
+## 2020-09-05 16:43:05 - feat(docs): add docs support (5/20)

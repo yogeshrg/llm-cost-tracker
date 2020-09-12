@@ -20,3 +20,4 @@
 ## 2020-07-18 16:06:51 - feat(core): implement core module (18/20)
 ## 2020-07-25 09:47:46 - feat(auth): create auth handler (7/20)
 ## 2020-09-05 16:43:05 - feat(docs): add docs support (5/20)
+## 2020-09-12 17:49:07 - feat(monitor): implement monitor module (9/20)

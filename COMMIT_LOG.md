@@ -23,3 +23,4 @@
 ## 2020-09-12 17:49:07 - feat(monitor): implement monitor module (9/20)
 ## 2020-09-20 23:46:01 - feat(metric): create metric handler (17/20)
 ## 2020-09-26 23:28:45 - feat(cache): implement cache feature (3/20)
+## 2020-09-27 11:21:55 - feat(config): implement config module (7/20)

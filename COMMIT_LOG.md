@@ -25,3 +25,4 @@
 ## 2020-09-26 23:28:45 - feat(cache): implement cache feature (3/20)
 ## 2020-09-27 11:21:55 - feat(config): implement config module (7/20)
 ## 2020-10-04 20:53:20 - feat(model): add model endpoint (8/20)
+## 2021-01-07 13:35:45 - feat(test): add test endpoint

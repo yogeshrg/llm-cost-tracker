@@ -191,3 +191,4 @@
 ## 2021-01-07 13:35:45 - feat(test): add test endpoint
 ## 2021-01-24 17:30:13 - feat(ui): implement ui module (8/20)
 ## 2021-02-21 11:17:23 - feat(worker): implement worker feature (18/20)
+## 2021-03-13 13:09:08 - feat(worker): add worker endpoint (10/20)

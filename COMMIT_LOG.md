@@ -192,3 +192,4 @@
 ## 2021-01-24 17:30:13 - feat(ui): implement ui module (8/20)
 ## 2021-02-21 11:17:23 - feat(worker): implement worker feature (18/20)
 ## 2021-03-13 13:09:08 - feat(worker): add worker endpoint (10/20)
+## 2021-03-27 23:28:21 - feat(metric): add metric support (5/20)

@@ -358,3 +358,4 @@
 ## 2021-03-27 23:28:21 - feat(metric): add metric support (5/20)
 ## 2021-03-31 09:10:22 - feat(deploy): implement deploy feature
 ## 2021-05-01 13:20:38 - feat(data): implement data feature (6/20)
+## 2021-05-09 10:41:53 - feat(deploy): add deploy support (19/20)

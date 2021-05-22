@@ -196,3 +196,4 @@
 ## 2021-03-31 09:10:22 - feat(deploy): implement deploy feature
 ## 2021-05-01 13:20:38 - feat(data): implement data feature (6/20)
 ## 2021-05-09 10:41:53 - feat(deploy): add deploy support (19/20)
+## 2021-05-22 10:39:26 - feat(model): add model support (10/20)

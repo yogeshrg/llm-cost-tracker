@@ -366,3 +366,4 @@
 ## 2021-06-26 19:43:05 - feat(alert): create alert handler (19/20)
 ## 2021-07-17 20:53:15 - feat(api): implement api feature (6/20)
 ## 2021-07-24 12:22:47 - feat(infra): implement infra module (3/20)
+## 2021-07-24 20:17:19 - feat(db): add db endpoint (19/20)

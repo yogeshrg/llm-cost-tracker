@@ -204,3 +204,4 @@
 ## 2021-07-17 20:53:15 - feat(api): implement api feature (6/20)
 ## 2021-07-24 12:22:47 - feat(infra): implement infra module (3/20)
 ## 2021-07-24 20:17:19 - feat(db): add db endpoint (19/20)
+## 2021-08-08 16:38:54 - feat(data): implement data module (16/20)

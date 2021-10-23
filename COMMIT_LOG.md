@@ -45,3 +45,4 @@
 ## 2021-09-05 16:20:28 - feat(data): implement data feature (11/20)
 ## 2021-09-05 23:54:22 - feat(infra): implement infra feature (14/20)
 ## 2021-10-09 18:03:39 - feat(build): create build handler (19/20)
+## 2021-10-23 09:31:16 - feat(auth): implement auth feature (16/20)

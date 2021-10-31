@@ -210,3 +210,4 @@
 ## 2021-10-09 18:03:39 - feat(build): create build handler (19/20)
 ## 2021-10-23 09:31:16 - feat(auth): implement auth feature (16/20)
 ## 2021-10-31 11:57:17 - feat(docs): implement docs feature (18/20)
+## 2021-10-31 13:10:04 - feat(metric): implement metric module (4/20)

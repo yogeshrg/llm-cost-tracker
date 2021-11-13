@@ -48,3 +48,4 @@
 ## 2021-10-23 09:31:16 - feat(auth): implement auth feature (16/20)
 ## 2021-10-31 11:57:17 - feat(docs): implement docs feature (18/20)
 ## 2021-10-31 13:10:04 - feat(metric): implement metric module (4/20)
+## 2021-11-13 20:26:29 - feat(config): add config support (12/20)

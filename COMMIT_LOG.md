@@ -215,3 +215,4 @@
 ## 2021-11-21 11:46:02 - feat(deploy): add deploy support (8/20)
 ## 2021-11-28 13:14:49 - feat(log): add log endpoint (9/20)
 ## 2021-12-19 21:02:08 - feat(worker): implement worker module (18/20)
+## 2022-01-09 15:10:30 - feat(metric): implement metric feature (7/20)

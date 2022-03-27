@@ -57,3 +57,4 @@
 ## 2022-02-06 22:32:40 - feat(metric): create metric handler (8/20)
 ## 2022-02-26 20:04:30 - feat(db): create db handler (14/20)
 ## 2022-03-13 20:30:35 - feat(alert): implement alert module (20/20)
+## 2022-03-27 22:35:49 - feat(auth): add auth support (12/20)

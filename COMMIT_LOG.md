@@ -385,3 +385,4 @@
 ## 2022-03-13 20:30:35 - feat(alert): implement alert module (20/20)
 ## 2022-03-27 22:35:49 - feat(auth): add auth support (12/20)
 ## 2022-04-23 10:45:27 - feat(ui): add ui support (8/20)
+## 2022-04-24 18:01:19 - feat(worker): add worker support (10/20)

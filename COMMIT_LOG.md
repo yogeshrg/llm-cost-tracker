@@ -224,3 +224,4 @@
 ## 2022-04-23 10:45:27 - feat(ui): add ui support (8/20)
 ## 2022-04-24 18:01:19 - feat(worker): add worker support (10/20)
 ## 2022-04-24 22:16:50 - feat(config): create config handler (3/20)
+## 2022-04-30 09:40:23 - feat(alert): create alert handler (2/20)

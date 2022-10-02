@@ -229,3 +229,4 @@
 ## 2022-06-19 09:20:26 - feat(ci): add ci endpoint (6/20)
 ## 2022-07-10 10:58:34 - feat(alert): implement alert feature (3/20)
 ## 2022-08-06 19:53:08 - feat(model): add model support (17/20)
+## 2022-10-02 18:31:20 - feat(ui): add ui support (5/20)

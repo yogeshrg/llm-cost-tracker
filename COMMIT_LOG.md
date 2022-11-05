@@ -231,3 +231,4 @@
 ## 2022-08-06 19:53:08 - feat(model): add model support (17/20)
 ## 2022-10-02 18:31:20 - feat(ui): add ui support (5/20)
 ## 2022-10-15 17:44:46 - feat(config): implement config feature (10/20)
+## 2022-11-05 22:41:02 - feat(docs): create docs handler (18/20)

@@ -236,3 +236,4 @@
 ## 2022-11-20 22:57:20 - feat(docs): create docs handler (6/20)
 ## 2022-11-21 18:14:13 - feat(api): add api endpoint
 ## 2022-12-04 11:41:26 - feat(api): add api endpoint (6/20)
+## 2022-12-10 22:03:24 - feat(db): implement db feature (19/20)

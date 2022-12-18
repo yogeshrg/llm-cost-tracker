@@ -75,3 +75,4 @@
 ## 2022-12-04 11:41:26 - feat(api): add api endpoint (6/20)
 ## 2022-12-10 22:03:24 - feat(db): implement db feature (19/20)
 ## 2022-12-17 11:10:12 - feat(infra): add infra endpoint (1/20)
+## 2022-12-18 09:35:58 - feat(alert): implement alert feature (18/20)

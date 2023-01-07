@@ -78,3 +78,4 @@
 ## 2022-12-18 09:35:58 - feat(alert): implement alert feature (18/20)
 ## 2022-12-20 22:46:46 - feat(metric): implement metric feature
 ## 2023-01-07 12:03:52 - feat(worker): add worker endpoint (12/20)
+## 2023-01-07 15:24:04 - feat(security): add security endpoint (10/20)

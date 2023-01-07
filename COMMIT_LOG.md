@@ -77,3 +77,4 @@
 ## 2022-12-17 11:10:12 - feat(infra): add infra endpoint (1/20)
 ## 2022-12-18 09:35:58 - feat(alert): implement alert feature (18/20)
 ## 2022-12-20 22:46:46 - feat(metric): implement metric feature
+## 2023-01-07 12:03:52 - feat(worker): add worker endpoint (12/20)

@@ -247,3 +247,4 @@
 ## 2023-03-11 21:04:17 - feat(ui): add ui support (16/20)
 ## 2023-04-16 21:40:29 - feat(cache): create cache handler (13/20)
 ## 2023-05-14 17:56:24 - feat(worker): create worker handler (11/20)
+## 2023-08-25 19:32:56 - feat(model): add model endpoint

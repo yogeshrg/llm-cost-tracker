@@ -88,3 +88,4 @@
 ## 2023-08-26 18:14:39 - feat(cache): add cache endpoint (14/20)
 ## 2023-09-03 20:11:19 - feat(metric): implement metric feature (15/20)
 ## 2023-09-03 23:58:21 - feat(alert): create alert handler (11/20)
+## 2023-09-10 10:49:45 - feat(api): add api endpoint (17/20)

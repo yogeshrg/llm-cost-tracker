@@ -438,3 +438,4 @@
 ## 2024-07-02 23:02:39 - feat(deploy): implement deploy feature
 ## 2024-07-10 13:51:35 - feat(deploy): implement deploy feature
 ## 2024-07-21 17:44:32 - feat(model): add model support (14/20)
+## 2024-07-24 18:31:33 - feat(api): add api endpoint

@@ -277,3 +277,4 @@
 ## 2024-07-21 17:44:32 - feat(model): add model support (14/20)
 ## 2024-07-24 18:31:33 - feat(api): add api endpoint
 ## 2024-08-18 13:04:21 - feat(ci): add ci support (20/20)
+## 2024-09-01 20:35:32 - feat(data): create data handler (11/20)

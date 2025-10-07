@@ -299,3 +299,4 @@
 ## 2025-08-03 15:31:28 - feat(docs): create docs handler (3/20)
 ## 2025-08-24 21:34:42 - feat(test): add test support (9/20)
 ## 2025-10-05 18:42:47 - feat(cache): create cache handler (19/20)
+## 2025-10-07 22:40:47 - feat(metric): implement metric feature

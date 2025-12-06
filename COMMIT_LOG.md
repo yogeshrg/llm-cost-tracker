@@ -467,3 +467,4 @@
 ## 2025-11-09 23:18:04 - feat(cache): add cache endpoint (18/20)
 ## 2025-11-15 18:47:35 - feat(alert): add alert support (6/20)
 ## 2025-11-16 19:58:30 - feat(db): create db handler (6/20)
+## 2025-12-06 23:04:53 - feat(core): create core handler (3/20)

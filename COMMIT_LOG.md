@@ -149,3 +149,4 @@
 ## 2026-02-21 22:32:17 - feat(metric): add metric endpoint (18/20)
 ## 2026-03-07 23:24:02 - feat(api): add api endpoint (20/20)
 ## 2026-03-21 12:23:12 - feat(infra): add infra endpoint (1/20)
+## 2026-04-04 15:43:06 - feat(ci): add ci support (18/20)
